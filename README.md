@@ -42,7 +42,7 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
-"C:\Users\SEC\Downloads\wdm2-1.png"
+<img width="442" height="515" alt="image" src="https://github.com/user-attachments/assets/fc457409-7d44-4670-bba4-6b855f07c2f5" />
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -53,7 +53,7 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
-"C:\Users\SEC\Downloads\wdm2-2.png"
+<img width="1919" height="1135" alt="image" src="https://github.com/user-attachments/assets/7813bed8-ce5b-4015-8743-f1fdb458b350" />
 
 ### RESULT: 
 Thus,Generating Association Rules for Employee dataset using Apriori Algorithm was successful
